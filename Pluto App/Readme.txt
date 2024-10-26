@@ -32,3 +32,11 @@ STEPS TO USE THE APPLICATION:
 6.	Now enter your email ID as per the requirement, (abcd123@gmail.com). And click on the “GET STARTED” button.
 7.	Now provide the password as per the requirement. (abcd123)
 8.	Yow will be logged in to the “HOMEPAGE” of the application, “EXPLORE THE UNKNOWN”.
+
+Backend Dependecies version:
+"dependencies": {
+        "cors": "^2.8.5",
+        "express": "^4.21.0",
+        "mongoose": "^8.7.0",
+        "nodemon": "^3.1.7"
+      }
